@@ -1,4 +1,4 @@
-## Flag-In-Flame-picoCTF
+## Write Up
 ![alt text](https://github.com/bebasaja-1/gambar/blob/main/Screenshot%202026-02-05%20100308.png?raw=true)
 
 # Deskripsi
