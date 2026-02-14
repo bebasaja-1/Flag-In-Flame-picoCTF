@@ -12,4 +12,4 @@ Use base64 to decode the data and generate the image file.
 - pertama decode isi teks dan hasilnya di masukkan ke image.png
 - setelah dilihat image terdapat sebuah teks yang ketika di decode keluar sebuah flag
 
-![alt text](https://github.com/bebasaja-1/gambar/blob/main/Screenshot%202026-02-05%20100422.png?raw=true)
+![alt text](https://github.com/bebasaja-1/gambar/blob/main/Screenshot%202026-02-14%20075618.png?raw=true)
